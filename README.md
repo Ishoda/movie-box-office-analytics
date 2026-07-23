@@ -1,5 +1,14 @@
 # Movie Box Office Analytics & Predictive Modeling
 
+![R](https://img.shields.io/badge/R-276DC3?logo=r&logoColor=white)
+![RStudio](https://img.shields.io/badge/RStudio-75AADB?logo=rstudio&logoColor=white)
+![ggplot2](https://img.shields.io/badge/ggplot2-FF6B6B?logo=ggplot2&logoColor=white)
+![Statistics](https://img.shields.io/badge/Statistics-4A90E2?logo=google-analytics&logoColor=white)
+![Data Analytics](https://img.shields.io/badge/Data%20Analytics-FF9800?logo=databricks&logoColor=white)
+![Predictive Modeling](https://img.shields.io/badge/Predictive%20Modeling-9C27B0?logo=scikitlearn&logoColor=white)
+![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?logo=kaggle&logoColor=white)
+
+
 ## Project Overview
 
 This project investigates whether positive audience reviews influence movie success by analyzing the relationship between audience ratings and worldwide box office revenue.
